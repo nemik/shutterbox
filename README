@@ -1,0 +1,3 @@
+This is an Atmel ATTiny13A-based infrared signal sender to activate the shutter on Pentax cameras. Tested with Pentax K-x. May add other later.
+
+This uses a button on pin 5 to activate it otherwise sleeps in low power mode.
